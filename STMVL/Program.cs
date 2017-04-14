@@ -15,7 +15,7 @@ namespace STMVL
             Trace.TraceInformation("Start new iteator, at... ");
             Trace.Flush();
 
-            //verify();
+            verify();
             //stmv();
             Trace.Flush();
 
